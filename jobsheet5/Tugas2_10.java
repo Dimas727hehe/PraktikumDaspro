@@ -13,5 +13,7 @@ public class Tugas2_10 {
         } else {
             System.out.println("Angka yang anda inputkan (" + angka + ") merupakan bilangan ganjil.");
         }
+
+        S.close();
     }
 }
